@@ -30,6 +30,10 @@
 
 
 
+
+
+
+
 @media(max-width: 991px) {
   .statistic-statistic {
     gap: var(--dl-space-space-unit);
@@ -65,6 +69,18 @@
     width: 100%;
   }
   .statistic-root-class-name12 {
+    width: 100%;
+  }
+  .statistic-root-class-name7 {
+    width: 100%;
+  }
+  .statistic-root-class-name8 {
+    width: 100%;
+  }
+  .statistic-root-class-name9 {
+    width: 100%;
+  }
+  .statistic-root-class-name10 {
     width: 100%;
   }
 }
