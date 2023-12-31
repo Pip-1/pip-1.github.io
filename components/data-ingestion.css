@@ -47,6 +47,7 @@
 }
 
 
+
 @media(max-width: 991px) {
   .data-ingestion-statistic {
     gap: var(--dl-space-space-unit);

@@ -62,6 +62,7 @@
 }
 
 
+
 @media(max-width: 991px) {
   .business-intelligence-statistic {
     gap: var(--dl-space-space-unit);
