@@ -1,11 +1,10 @@
 .statistic-statistic {
-  width: 346px;
+  width: auto;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-twounits);
   justify-content: space-between;
   border-bottom-width: 1px;
 }
@@ -17,7 +16,7 @@
 }
 .statistic-sta1 {
   color: rgb(255, 255, 255);
-  font-size: 40px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 500;
   line-height: 72px;
