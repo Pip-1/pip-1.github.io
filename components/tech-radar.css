@@ -152,9 +152,6 @@
   width: 200px;
   object-fit: cover;
 }
-.tech-radar-root-class-name {
-  background-color: #FFFFFF;
-}
 @media(max-width: 991px) {
   .tech-radar-work {
     gap: 0px;

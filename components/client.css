@@ -46,6 +46,8 @@
 }
 
 
+
+
 @media(max-width: 991px) {
   .client-client {
     gap: var(--dl-space-space-unit);
@@ -74,9 +76,15 @@
   .client-root-class-name {
     width: 100%;
   }
+  .client-root-class-name2 {
+    width: 100%;
+  }
 }
 @media(max-width: 767px) {
   .client-root-class-name1 {
+    width: 100%;
+  }
+  .client-root-class-name3 {
     width: 100%;
   }
 }
