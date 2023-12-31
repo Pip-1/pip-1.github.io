@@ -1031,9 +1031,9 @@
   width: 100%;
   display: flex;
   max-width: 1280px;
-  align-self: flex-start;
+  align-self: center;
   align-items: flex-start;
-  padding-top: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-fiveunits);
   flex-direction: row;
   padding-bottom: var(--dl-space-space-threeunits);
   justify-content: center;
