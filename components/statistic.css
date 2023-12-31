@@ -6,7 +6,7 @@
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-fiveunits);
+  padding-bottom: var(--dl-space-space-twounits);
   border-bottom-width: 1px;
 }
 .statistic-sta {
@@ -17,7 +17,7 @@
 }
 .statistic-sta1 {
   color: rgb(255, 255, 255);
-  font-size: 60px;
+  font-size: 40px;
   font-style: normal;
   font-weight: 500;
   line-height: 72px;

@@ -6,7 +6,7 @@
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-fiveunits);
+  padding-bottom: var(--dl-space-space-twounits);
   border-bottom-width: 1px;
 }
 .statistic-sta {
@@ -17,7 +17,7 @@
 }
 .statistic-sta1 {
   color: rgb(255, 255, 255);
-  font-size: 60px;
+  font-size: 40px;
   font-style: normal;
   font-weight: 500;
   line-height: 72px;
@@ -674,8 +674,8 @@
   padding-bottom: var(--dl-space-space-sixunits);
 }
 .home-title {
-  width: 771px;
-  height: 221px;
+  width: 696px;
+  height: 167px;
   font-size: 80px;
   max-width: 100%;
   align-self: center;
@@ -867,7 +867,7 @@
 }
 .home-client-list {
   gap: var(--dl-space-space-fiveunits);
-  width: auto;
+  width: 800px;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: 1280px;
