@@ -3,7 +3,7 @@
   width: 346px;
   display: flex;
   position: relative;
-  align-items: flex-start;
+  align-items: center;
   border-color: #ffffff;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
@@ -14,7 +14,6 @@
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 3%;
-  text-transform: uppercase;
 }
 .statistic-sta1 {
   color: rgb(255, 255, 255);
@@ -23,6 +22,8 @@
   font-weight: 500;
   line-height: 72px;
 }
+
+
 
 
 
@@ -58,6 +59,12 @@
     width: 100%;
   }
   .statistic-root-class-name5 {
+    width: 100%;
+  }
+  .statistic-root-class-name6 {
+    width: 100%;
+  }
+  .statistic-root-class-name12 {
     width: 100%;
   }
 }
