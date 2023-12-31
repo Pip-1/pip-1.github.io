@@ -559,7 +559,7 @@
   background-color: #f29400;
 }
 .home-text02 {
-  color: rgb(255, 255, 255);
+  color: #151515;
 }
 .home-burger-menu {
   display: none;
@@ -817,7 +817,7 @@
   background-color: #f29400;
 }
 .home-text24 {
-  color: rgb(255, 255, 255);
+  color: #151515;
   font-size: 20px;
 }
 .home-statistics1 {
@@ -863,7 +863,7 @@
   background-color: #f29400;
 }
 .home-text25 {
-  color: rgb(255, 255, 255);
+  color: #151515;
 }
 .home-row {
   width: 100%;
@@ -1024,7 +1024,7 @@
   background-color: #f29400;
 }
 .home-text36 {
-  color: rgb(255, 255, 255);
+  color: #151515;
 }
 .home-location {
   gap: var(--dl-space-space-halfunit);
