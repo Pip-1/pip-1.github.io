@@ -951,15 +951,6 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-container2 {
-  flex: 0 0 auto;
-  width: 200px;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 100px;
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
 .home-footer {
   width: 100%;
   display: flex;
@@ -1011,6 +1002,14 @@
   font-size: 25px;
   line-height: 1.5;
 }
+.home-link1 {
+  margin-top: var(--dl-space-space-halfunit);
+  text-decoration: none;
+  background-color: #f29400;
+}
+.home-text36 {
+  color: rgb(255, 255, 255);
+}
 .home-location {
   gap: var(--dl-space-space-halfunit);
   display: flex;
@@ -1030,6 +1029,26 @@
   font-weight: 500;
   line-height: 48px;
 }
+.home-text37 {
+  font-size: 14px;
+  line-height: 20px;
+}
+.home-text38 {
+  font-size: 14px;
+  line-height: 20px;
+}
+.home-text39 {
+  font-size: 14px;
+  line-height: 20px;
+}
+.home-text40 {
+  font-size: 14px;
+  line-height: 20px;
+}
+.home-text41 {
+  font-size: 14px;
+  line-height: 20px;
+}
 .home-location1 {
   gap: var(--dl-space-space-halfunit);
   display: flex;
@@ -1043,18 +1062,11 @@
 }
 .home-value1 {
   color: rgb(21, 21, 21);
-  font-size: 32px;
+  font-size: 14px;
   max-width: 560px;
   font-style: normal;
   font-weight: 500;
-  line-height: 48px;
-}
-.home-button4 {
-  margin-top: var(--dl-space-space-halfunit);
-  background-color: #f29400;
-}
-.home-text42 {
-  color: rgb(255, 255, 255);
+  line-height: 20px;
 }
 .home-links1 {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -1062,6 +1074,9 @@
   flex-wrap: wrap;
   align-items: flex-start;
   flex-direction: row;
+}
+.home-social {
+  text-decoration: none;
 }
 .home-image2 {
   object-fit: cover;
@@ -1282,6 +1297,18 @@
     font-size: 15px;
     line-height: 18px;
   }
+  .home-link1 {
+    font-size: 16px;
+    margin-top: var(--dl-space-space-unit);
+    padding-top: 18px;
+    padding-left: 26px;
+    padding-right: 26px;
+    padding-bottom: 18px;
+  }
+  .home-text36 {
+    font-style: normal;
+    font-weight: 500;
+  }
   .home-caption {
     font-size: 14px;
     line-height: 21px;
@@ -1297,18 +1324,6 @@
   .home-value1 {
     font-size: 16px;
     line-height: 24px;
-  }
-  .home-button4 {
-    font-size: 16px;
-    margin-top: var(--dl-space-space-unit);
-    padding-top: 18px;
-    padding-left: 26px;
-    padding-right: 26px;
-    padding-bottom: 18px;
-  }
-  .home-text42 {
-    font-style: normal;
-    font-weight: 500;
   }
   .home-links1 {
     gap: var(--dl-space-space-unit);
