@@ -47,10 +47,13 @@
     font-size: 40px;
     line-height: 36px;
   }
-  .statistic-root-class-name6 {
+  .statistic-root-class-name {
     width: 100%;
   }
-  .statistic-root-class-name12 {
+  .statistic-root-class-name1 {
+    width: 100%;
+  }
+  .statistic-root-class-name6 {
     width: 100%;
   }
   .statistic-root-class-name7 {
@@ -68,6 +71,9 @@
   .statistic-root-class-name11 {
     width: 100%;
   }
+  .statistic-root-class-name12 {
+    width: 100%;
+  }
   .statistic-root-class-name13 {
     width: 100%;
   }
@@ -75,12 +81,6 @@
     width: 100%;
   }
   .statistic-root-class-name15 {
-    width: 100%;
-  }
-  .statistic-root-class-name {
-    width: 100%;
-  }
-  .statistic-root-class-name1 {
     width: 100%;
   }
 }
