@@ -1,0 +1,47 @@
+.tech-stack-statistic {
+  gap: var(--dl-space-space-threeunits);
+  width: 346px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: #ffffff;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.tech-stack-sta {
+  color: #ffffff;
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 3%;
+}
+.tech-stack-image {
+  width: 200px;
+  object-fit: cover;
+}
+.tech-stack-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px) {
+  .tech-stack-statistic {
+    gap: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .tech-stack-sta {
+    font-size: 11px;
+    line-height: 16.5px;
+  }
+}

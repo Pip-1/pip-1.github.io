@@ -27,18 +27,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 @media(max-width: 991px) {
   .service-service {
     gap: var(--dl-space-space-unit);
@@ -68,42 +56,6 @@
     max-width: 100%;
   }
   .service-root-class-name5 {
-    max-width: 100%;
-  }
-  .service-root-class-name6 {
-    max-width: 100%;
-  }
-  .service-root-class-name7 {
-    max-width: 100%;
-  }
-  .service-root-class-name8 {
-    max-width: 100%;
-  }
-  .service-root-class-name9 {
-    max-width: 100%;
-  }
-  .service-root-class-name10 {
-    max-width: 100%;
-  }
-  .service-root-class-name11 {
-    max-width: 100%;
-  }
-  .service-root-class-name12 {
-    max-width: 100%;
-  }
-  .service-root-class-name13 {
-    max-width: 100%;
-  }
-  .service-root-class-name14 {
-    max-width: 100%;
-  }
-  .service-root-class-name15 {
-    max-width: 100%;
-  }
-  .service-root-class-name16 {
-    max-width: 100%;
-  }
-  .service-root-class-name17 {
     max-width: 100%;
   }
 }
