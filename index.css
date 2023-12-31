@@ -555,6 +555,7 @@
   flex-direction: row;
 }
 .home-link {
+  height: 41px;
   text-decoration: none;
   background-color: #f29400;
 }
@@ -678,82 +679,72 @@
 }
 .home-title {
   width: auto;
-  height: auto;
+  height: 100px;
   font-size: 80px;
   max-width: 100%;
   align-self: center;
   text-align: left;
   font-weight: normal;
-  line-height: 10px;
+  line-height: 20px;
   text-transform: uppercase;
 }
 .home-text09 {
   color: #f29400;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text10 {
   color: #ef6677;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text11 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text12 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text13 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text14 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text15 {
   color: #ef6677;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text16 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text17 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text18 {
   color: #f29400;
   font-size: 40px;
-  line-height: 15px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
@@ -814,6 +805,7 @@
 }
 .home-button2 {
   width: 201px;
+  height: 41px;
   background-color: #f29400;
 }
 .home-text24 {
@@ -859,6 +851,7 @@
   flex-direction: column;
 }
 .home-button3 {
+  height: 47px;
   align-self: center;
   background-color: #f29400;
 }
