@@ -1,0 +1,35 @@
+.tech-domain-container {
+  display: flex;
+  position: relative;
+}
+.tech-domain-tag {
+  text-align: center;
+  transition: 0.3s;
+}
+.tech-domain-tag:hover {
+  color: #fff;
+  background-color: #235536;
+}
+.tech-domain-root-class-name {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.tech-domain-root-class-name1 {
+  margin-top: var(--dl-space-space-sixunits);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.tech-domain-root-class-name2 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.tech-domain-root-class-name3 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+@media(max-width: 991px) {
+  .tech-domain-tag {
+    font-size: 12px;
+    padding-top: 12px;
+    white-space: nowrap;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 12px;
+  }
+}
