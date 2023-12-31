@@ -1,11 +1,11 @@
 .data-transformation-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: auto;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .data-transformation-title {

@@ -1,5 +1,4 @@
 .statistic-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: 346px;
   display: flex;
   position: relative;
@@ -7,6 +6,7 @@
   border-color: #ffffff;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .statistic-sta {
@@ -86,13 +86,13 @@
 }
 
 .data-ingestion-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: auto;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .data-ingestion-title {
@@ -159,13 +159,13 @@
 }
 
 .data-transformation-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: auto;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .data-transformation-title {
@@ -232,14 +232,14 @@
 }
 
 .databases-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: auto;
-  height: 259px;
+  height: 229px;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .databases-title {
@@ -273,9 +273,8 @@
 }
 .databases-container1 {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 63px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -323,18 +322,18 @@
   }
 }
 
-.business-intelligence-statistic {
-  gap: var(--dl-space-space-threeunits);
+.bi-statistic {
   width: auto;
-  height: 274px;
+  height: 229px;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
-.business-intelligence-title {
+.bi-title {
   color: rgb(255, 255, 255);
   font-size: 30px;
   font-style: normal;
@@ -342,74 +341,74 @@
   font-weight: 500;
   line-height: 72px;
 }
-.business-intelligence-container {
+.bi-container {
   gap: 10;
   width: 100%;
-  height: 67px;
+  height: 55px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
 }
-.business-intelligence-sta {
+.bi-sta {
   color: rgb(153, 153, 153);
   font-size: 20px;
   line-height: 30px;
   padding-right: var(--dl-space-space-threeunits);
   letter-spacing: 3%;
 }
-.business-intelligence-sta1 {
+.bi-sta1 {
   color: rgb(153, 153, 153);
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 3%;
 }
-.business-intelligence-container1 {
+.bi-container1 {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 63px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
 }
-.business-intelligence-sta2 {
+.bi-sta2 {
   color: rgb(153, 153, 153);
   font-size: 20px;
   line-height: 30px;
   padding-right: var(--dl-space-space-threeunits);
   letter-spacing: 3%;
 }
-.business-intelligence-sta3 {
+.bi-sta3 {
   color: rgb(153, 153, 153);
   font-size: 20px;
   line-height: 30px;
   letter-spacing: 3%;
 }
+
 
 
 
 @media(max-width: 991px) {
-  .business-intelligence-statistic {
+  .bi-statistic {
     gap: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .business-intelligence-title {
+  .bi-title {
     font-size: 40px;
     line-height: 36px;
   }
-  .business-intelligence-sta {
+  .bi-sta {
     font-size: 11px;
     line-height: 16.5px;
   }
-  .business-intelligence-sta1 {
+  .bi-sta1 {
     font-size: 11px;
     line-height: 16.5px;
   }
-  .business-intelligence-sta2 {
+  .bi-sta2 {
     font-size: 11px;
     line-height: 16.5px;
   }
-  .business-intelligence-sta3 {
+  .bi-sta3 {
     font-size: 11px;
     line-height: 16.5px;
   }
@@ -678,8 +677,8 @@
   padding-bottom: var(--dl-space-space-sixunits);
 }
 .home-title {
-  width: 862px;
-  height: 218px;
+  width: 765px;
+  height: 126px;
   font-size: 80px;
   max-width: 100%;
   align-self: center;
@@ -690,62 +689,72 @@
 }
 .home-text09 {
   color: #f29400;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text10 {
   color: #ef6677;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text11 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text12 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text13 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text14 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text15 {
   color: #ef6677;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text16 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text17 {
   color: #ffffff;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text18 {
   color: #f29400;
-  font-size: 60px;
-  line-height: 30px;
+  font-size: 40px;
+  line-height: 10px;
+  letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text19 {
@@ -837,7 +846,7 @@
 }
 .home-text24 {
   color: rgb(255, 255, 255);
-  font-size: 25px;
+  font-size: 20px;
 }
 .home-statistics2 {
   width: auto;

@@ -1,5 +1,4 @@
 .statistic-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: 346px;
   display: flex;
   position: relative;
@@ -7,6 +6,7 @@
   border-color: #ffffff;
   flex-direction: column;
   padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .statistic-sta {

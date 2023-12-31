@@ -1,12 +1,12 @@
 .databases-statistic {
-  gap: var(--dl-space-space-threeunits);
   width: auto;
-  height: 259px;
+  height: 229px;
   display: flex;
   position: relative;
   align-items: center;
   border-color: #ffffff;
   flex-direction: column;
+  justify-content: space-between;
   border-bottom-width: 1px;
 }
 .databases-title {
@@ -40,9 +40,8 @@
 }
 .databases-container1 {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 63px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
