@@ -87,6 +87,7 @@
 
 .data-ingestion-statistic {
   width: auto;
+  height: 143px;
   display: flex;
   position: relative;
   align-items: center;
@@ -105,9 +106,8 @@
 }
 .data-ingestion-container {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 60px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -132,6 +132,7 @@
   line-height: 30px;
   letter-spacing: 3%;
 }
+
 
 
 
@@ -160,6 +161,7 @@
 
 .data-transformation-statistic {
   width: auto;
+  height: 143px;
   display: flex;
   position: relative;
   align-items: center;
@@ -178,9 +180,8 @@
 }
 .data-transformation-container {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 60px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -677,83 +678,73 @@
   padding-bottom: var(--dl-space-space-sixunits);
 }
 .home-title {
-  width: 765px;
-  height: 126px;
+  width: auto;
+  height: auto;
   font-size: 80px;
   max-width: 100%;
   align-self: center;
   text-align: left;
   font-weight: normal;
-  line-height: 90px;
+  line-height: 10px;
   text-transform: uppercase;
 }
 .home-text09 {
   color: #f29400;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text10 {
   color: #ef6677;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text11 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text12 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text13 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text14 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text15 {
   color: #ef6677;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text16 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text17 {
   color: #ffffff;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
 .home-text18 {
   color: #f29400;
   font-size: 40px;
-  line-height: 10px;
   letter-spacing: 2px;
   text-transform: lowercase;
 }
