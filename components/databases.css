@@ -1,6 +1,7 @@
 .databases-statistic {
   gap: var(--dl-space-space-threeunits);
-  width: 628px;
+  width: auto;
+  height: 259px;
   display: flex;
   position: relative;
   align-items: center;
@@ -18,9 +19,8 @@
 }
 .databases-container {
   gap: 10;
-  flex: 0 0 auto;
   width: 100%;
-  height: 100px;
+  height: 55px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
@@ -36,8 +36,16 @@
   color: rgb(153, 153, 153);
   font-size: 20px;
   line-height: 30px;
-  padding-right: var(--dl-space-space-threeunits);
   letter-spacing: 3%;
+}
+.databases-container1 {
+  gap: 10;
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
 }
 .databases-sta2 {
   color: rgb(153, 153, 153);
@@ -52,6 +60,7 @@
   line-height: 30px;
   letter-spacing: 3%;
 }
+
 
 @media(max-width: 991px) {
   .databases-statistic {

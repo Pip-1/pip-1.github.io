@@ -3,12 +3,15 @@
   position: relative;
 }
 .tag-tag {
+  color: var(--dl-color-gray-white);
   transition: 0.3s;
+  border-color: var(--dl-color-gray-white);
 }
 .tag-tag:hover {
   color: #fff;
   background-color: #235536;
 }
+
 @media(max-width: 991px) {
   .tag-tag {
     font-size: 12px;

@@ -1,6 +1,6 @@
 .data-ingestion-statistic {
   gap: var(--dl-space-space-threeunits);
-  width: 628px;
+  width: auto;
   display: flex;
   position: relative;
   align-items: center;
@@ -45,6 +45,7 @@
   line-height: 30px;
   letter-spacing: 3%;
 }
+
 
 @media(max-width: 991px) {
   .data-ingestion-statistic {
