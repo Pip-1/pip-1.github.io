@@ -829,7 +829,7 @@
   background-color: #151515;
 }
 .home-statistics1 {
-  width: 807px;
+  width: auto;
   display: flex;
   max-width: 1280px;
   align-items: flex-start;
@@ -867,8 +867,9 @@
 }
 .home-client-list {
   gap: var(--dl-space-space-fiveunits);
-  width: 100%;
+  width: auto;
   display: flex;
+  padding: var(--dl-space-space-threeunits);
   max-width: 1280px;
   align-items: flex-start;
   flex-direction: column;
