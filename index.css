@@ -685,7 +685,7 @@
   align-self: center;
   text-align: left;
   font-weight: normal;
-  line-height: 20px;
+  line-height: 25px;
   text-transform: uppercase;
 }
 .home-text09 {
@@ -760,7 +760,7 @@
   font-size: 18px;
   max-width: 800px;
   align-self: center;
-  line-height: 36px;
+  line-height: 25px;
   margin-left: var(--dl-space-space-unit);
 }
 .home-text18 {
